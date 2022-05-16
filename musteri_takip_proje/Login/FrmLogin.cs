@@ -12,6 +12,8 @@ using musteri_takip_proje.Entity;
 
 namespace musteri_takip_proje.Login
 {
+
+
     public partial class FrmLogin : Form
     {
         public FrmLogin()
